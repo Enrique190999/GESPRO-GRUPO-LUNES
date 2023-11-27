@@ -1,10 +1,3 @@
-# GESTIÓN DE PROYECTOS
-## Grupo lunes
-### Integrantes
- - Enrique Padilla Padilla (epp1012@alu.ubu.es)
- - Carlos Saiz Hernandez (csh1001@alu.ubu.es)
- - Mario Cea Heredia (mch1015@alu.ubu.es)
- - Alejandro García García (agg1068@alu.ubu.es)
 # TechnoMD5
 *Gestión de proyectos*
 *Grupo lunes*
@@ -16,7 +9,7 @@
 
  ## 2. Tareas asignadas
  ### 2.1. Gestión de usuarios
-Gestión del backend del servicio de usuarios
+Gestión del backend del serivicio de usuarios
  #### 2.1.1. Registro
 
 *Dirección:*
@@ -38,7 +31,8 @@ Gestión del backend del servicio de usuarios
  - *Fecha de nacimiento*
 
 **Argumentos de salida:**
- - *Token de sesión MD5:* Este token de sesión MD5 se genera automáticamente al realizar un registro correcto para empezar a trabajar en la plataforma.
+ - *Token de sesión MD5:* Este token de sesión MD5 se genera automaticamente al realizar un registro correcto para empezar a trabajar en la plataforma.
+
 
  #### 2.1.2. Login
 
@@ -52,7 +46,9 @@ Gestión del backend del servicio de usuarios
  
 Este servicio se encarga de permitir que los usuarios inicien sesión proporcionando sus credenciales.
 
+
 **Parámetros de entrada:**
+
  - *Email*
  - *Password*
 
@@ -71,6 +67,7 @@ Este servicio se encarga de permitir que los usuarios inicien sesión proporcion
  **Función interna**:
  
 Este servicio se encarga de permitir que los usuarios puedan restablecer sus credenciales.
+
 
 **Parámetros de entrada:**
  - *Email*
@@ -98,6 +95,7 @@ Este servicio se encarga de garantizar la seguridad mediante el uso de tokens. E
     Verificación de la autenticidad del token en cada solicitud.
 
  - **Renovación de Tokens:**
+
 Establecimiento de un mecanismo para renovar periódicamente los tokens de sesión.
 
 ### 2.2. Vulnerabilidades en red
@@ -112,5 +110,3 @@ Gestión de las vulnerabilidades de red solicitadas por el usuario.
  Una vez finalizada la exploración y análisis de la red realizaremos una documentación de los posibles fallos que encontramos en ella, añadiendo su relevancia de peligro, los posibles daños que el uso de esa vulnerabilidad puede generar, y posteriormente las soluciones a dichas fallas en la seguridad.
 
  [*Ejemplo*](./html/ejemploNMAP.html)
-
-
