@@ -110,7 +110,7 @@ Gestión de las vulnerabilidades de red solicitadas por el usuario.
  Una vez finalizada la exploración y análisis de la red realizaremos una documentación de los posibles fallos que encontramos en ella, añadiendo su relevancia de peligro, los posibles daños que el uso de esa vulnerabilidad puede generar, y posteriormente las soluciones a dichas fallas en la seguridad.
 
  [*Ejemplo*](./html/ejemploNMAP.html)
----------------------------
+
 ### 2.3. Codigo malicioso
 Investigación y análisis del código de programas maliciosos con el fin de identificar y comprender amenazas cibernéticas. 
 
@@ -122,3 +122,15 @@ Es importante señalar que el análisis de malware es una tarea compleja y en co
  #### 2.3.2 Creación de base de datos de Malwares
 Una base de datos de malware será creada para la colección organizada de información sobre amenazas cibernéticas, incluyendo detalles sobre sus características, comportamientos y técnicas de evasión. 
 Es una herramienta esencial para fortalecer la postura de seguridad cibernética de una organización al proporcionar información crucial para la detección, prevención y respuesta a amenazas.
+
+---------
+### 2.4. Seguridad y mantenimiento
+Implementacion de medidas de seguridad robustas para salvaguardar la integridad de los datos y la infraestructura de su empresa, respaldadas por protocolos de mantenimiento proactivos que garantizan un entorno operativo eficiente y confiable.
+
+  #### 2.4.1. Busqueda de brechas de seguridad
+Realizacion exhaustiva de evaluaciones de brechas de seguridad, empleando herramientas avanzadas y análisis meticuloso para identificar posibles vulnerabilidades en sistemas y redes.
+
+Nuestro enfoque proactivo nos permite anticipar y abordar amenazas potenciales, fortaleciendo así la resiliencia de su empresa contra ciberataques. Además, proporcionamos informes detallados y recomendaciones para mejorar continuamente las defensas cibernéticas.
+
+ #### 2.4.2 Exploracion de vulnerabilidades mediante Metasploit
+Utilizacion de Metasploit como una poderosa herramienta de evaluación de seguridad, llevando a cabo exploraciones de vulnerabilidades en sistemas y redes. Con un enfoque ético, identificamos posibles debilidades, evaluamos su impacto y proponemos soluciones para fortalecer la seguridad cibernética. Nuestro equipo experto emplea Metasploit de manera controlada y estratégica, garantizando un análisis exhaustivo y medidas preventivas efectivas.
