@@ -110,3 +110,15 @@ Gestión de las vulnerabilidades de red solicitadas por el usuario.
  Una vez finalizada la exploración y análisis de la red realizaremos una documentación de los posibles fallos que encontramos en ella, añadiendo su relevancia de peligro, los posibles daños que el uso de esa vulnerabilidad puede generar, y posteriormente las soluciones a dichas fallas en la seguridad.
 
  [*Ejemplo*](./html/ejemploNMAP.html)
+---------------------------
+### 2.3. Codigo malicioso
+Investigación y análisis del código de programas maliciosos con el fin de identificar y comprender amenazas cibernéticas. 
+
+  #### 2.3.1. Lectura de códigos
+La lectura de códigos para encontrar malware implica analizar el código fuente o el código ejecutable de un programa para identificar la presencia de comportamientos maliciosos.
+
+Es importante señalar que el análisis de malware es una tarea compleja y en constante evolución, ya que los desarrolladores de malware continúan mejorando sus técnicas para evadir la detección.
+
+ #### 2.3.2 Creación de base de datos de Malwares
+Una base de datos de malware será creada para la colección organizada de información sobre amenazas cibernéticas, incluyendo detalles sobre sus características, comportamientos y técnicas de evasión. 
+Es una herramienta esencial para fortalecer la postura de seguridad cibernética de una organización al proporcionar información crucial para la detección, prevención y respuesta a amenazas.
